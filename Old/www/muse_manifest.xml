@@ -1,0 +1,52 @@
+<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1453319441721" iceMarkupVersion="2" domain="autodoprava.by">
+  <folder name="css">
+    <file name="site_global.css" crc="104616722"/>
+    <file name="index.css" crc="536307973" ref="index"/>
+    <file name="master_______-a.css" crc="4164334250" ref="index:about:contact:404:без-имени-5"/>
+    <file name="about.css" crc="266969666" ref="about"/>
+    <file name="contact.css" crc="4256428880" ref="contact"/>
+    <file name="404.css" crc="3801101397" ref="404"/>
+    <file name="iefonts_index.css" crc="3896889583" ref="index"/>
+    <file name="iefonts_contact.css" crc="522851519" ref="contact"/>
+    <file name="iefonts_about.css" crc="3820640911" ref="about"/>
+    <file name="iefonts_404.css" crc="4074645394" ref="404"/>
+    <file name="___-_____-5.css" crc="45858408" ref="без-имени-5"/>
+    <file name="iefonts____-_____-5.css" crc="4074645394" ref="без-имени-5"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="196614522" ref="index:about:contact:404:без-имени-5"/>
+    <file name="museutils.js" crc="275725342" ref="index:about:contact:404:без-имени-5"/>
+    <file name="jquery.watch.js" crc="3999102769" ref="index:about:contact:404:без-имени-5"/>
+    <file name="pie.js" crc="3827607177" ref="contact:без-имени-5"/>
+    <file name="webpro.js" crc="3883484123" ref="contact:index:без-имени-5"/>
+    <file name="musewpslideshow.js" crc="360574455" ref="contact:index:без-имени-5"/>
+    <file name="jquery.museoverlay.js" crc="342093292" ref="contact:index:без-имени-5"/>
+    <file name="touchswipe.js" crc="4218319045" ref="contact:index:без-имени-5"/>
+  </folder>
+  <folder name="images">
+    <file name="menu_fon.jpg" crc="102328206" ref="index"/>
+    <file name="404green.jpg" crc="4240079855" seo="true" ref="404"/>
+    <file name="client_03.jpg" crc="3933949643" seo="true" ref="contact"/>
+    <file name="blank.gif" crc="4208392903" ref="contact:index"/>
+    <file name="team_member_02-crop-u292.jpg" crc="345452765" ref="contact"/>
+    <file name="loading.gif" crc="3815509949" ref="contact:index"/>
+    <file name="шаблон-a-favicon.ico" crc="4254690927" ref="index"/>
+    <file name="74a6831ee78441e099bf5f45c370b3004f405e4a77bf29386476ba260fbe417d.jpg" crc="435698317" seo="true" ref="без-имени-5"/>
+    <file name="4357ded0f6c8ad01b060d23d30d46ba3818ac41fddafc0c2001619950fbb87ba.jpg" crc="355519896" seo="true" ref="без-имени-5"/>
+    <file name="08793c489e9aace9cfa396f2070c6502bf6fb6acfb3ada0e0355a34ba67f23f8.jpg" crc="4246168494" seo="true" ref="index:без-имени-5"/>
+    <file name="20154ee55a645e9afcc62ba06cdc77ecec9a02540119befeddcbf92a674433c6.jpg" crc="78101130" seo="true" ref="index"/>
+    <file name="dda26649a58f5c8732fa90e767de94ee4ecac4a393353ec6a70b03d2540ea4cb.jpg" crc="24924339" seo="true" ref="index"/>
+    <file name="782520cebec91ef705f220794895fe4b581ae7eff8f6f14c78e44963abfa5e94-crop-u866.jpg" crc="396424202" ref="index"/>
+    <file name="782520cebec91ef705f220794895fe4b581ae7eff8f6f14c78e44963abfa5e94374x498.jpg" crc="270195885" seo="true" ref="без-имени-5"/>
+    <file name="sback-u837.png" crc="421930452" ref="без-имени-5"/>
+    <file name="sback-u837-r.png" crc="235392197" ref="без-имени-5"/>
+    <file name="sforward-u823.png" crc="4024005544" ref="без-имени-5"/>
+    <file name="sforward-u823-r.png" crc="4253212486" ref="без-имени-5"/>
+    <file name="sforward-u823-m.png" crc="4253212486" ref="без-имени-5"/>
+  </folder>
+  <file name="index.html" crc="4038310507" mt="1453319348119" redirect="true" seo="true"/>
+  <file name="about.html" crc="439951784" seo="true" mt="1453319356523" redirect="true"/>
+  <file name="contact.html" crc="145769749" seo="true" mt="1453319329354" redirect="true"/>
+  <file name="404.html" crc="3885608490" seo="true" mt="1453319329354" redirect="true"/>
+  <file name="без-имени-5.html" crc="4289981615" seo="true" mt="1453319329354" redirect="true"/>
+</manifest>

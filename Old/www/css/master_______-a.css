@@ -1,0 +1,92 @@
+#u91
+{
+	background-color: #11CD82;
+}
+
+#u95
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+}
+
+#u93-5
+{
+	background-color: transparent;
+	line-height: 36px;
+	font-size: 36px;
+	color: #FFFFFF;
+	text-align: center;
+	font-family: pt-sans, sans-serif;
+	font-weight: 700;
+	font-style: italic;
+	position: relative;
+}
+
+#u93-2
+{
+	font-family: pt-sans, sans-serif;
+	font-weight: 700;
+	font-style: italic;
+}
+
+#u94-4
+{
+	background-color: transparent;
+	line-height: 7px;
+	font-size: 7px;
+	letter-spacing: 1px;
+	color: #000000;
+	text-align: center;
+	font-family: pt-sans, sans-serif;
+	font-weight: 700;
+	font-style: italic;
+	position: relative;
+}
+
+#u99-8
+{
+	background-color: transparent;
+	line-height: 24px;
+	font-size: 24px;
+	color: #000000;
+	text-align: left;
+	font-family: pt-sans, sans-serif;
+	font-weight: 400;
+	font-style: italic;
+	position: relative;
+}
+
+#u111
+{
+	background-color: #009245;
+}
+
+#u112
+{
+	background: transparent url("../images/menu_fon.jpg") repeat-x left top;
+}
+
+#u91_align_to_page,#u112_align_to_page
+{
+	position: relative;
+}
+
+#u113-11
+{
+	border-style: none;
+	background-color: transparent;
+	line-height: 29px;
+	font-size: 24px;
+	font-family: pt-sans, sans-serif;
+	font-weight: 400;
+	font-style: italic;
+	position: relative;
+}
+
+#u113,#u113-3,#u113-4,#u113-6,#u113-7
+{
+	font-weight: 700;
+}
+
