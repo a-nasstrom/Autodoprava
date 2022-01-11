@@ -1,10 +1,10 @@
-name: Create production promotion pull request
+name: Create release in to dev pull request
 on:
   push:
     branches:
       - master
 jobs:
-  productionPromotion:
+  releasePromotion:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
@@ -12,9 +12,9 @@ jobs:
           ref: dev
       - name: Reset promotion branch
         run: |
-          git fetch origin master:master
-          git reset --hard master
+          git fetch origin release:release
+          git reset --hard release
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v3
         with:
-          branch: dev
+          branch: elease
